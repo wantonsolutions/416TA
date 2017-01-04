@@ -34,3 +34,5 @@ sudo apt-get install mercurial
 
 #install GoVector to boot strap directories
 go get github.com/arcaneiceman/GoVector
+
+source .profile
